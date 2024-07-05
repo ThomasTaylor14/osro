@@ -2,3 +2,4 @@
 *.env
 __init__.py
 *ipynb
+**/.vscode/
